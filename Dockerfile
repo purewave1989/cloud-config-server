@@ -1,4 +1,4 @@
-FROM centos-git
+FROM centos
 
 MAINTAINER xiaqingbo
 
